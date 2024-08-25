@@ -1,7 +1,7 @@
 bidict==0.22.1
 certifi==2022.12.7
 idna==2.10
-numpy==1.24.2
+numpy==1.26.4
 pyjsparser==2.7.1
 PyJWT==2.6.0
 python-dateutil==2.8.2
